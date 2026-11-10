@@ -1,7 +1,7 @@
 # Basic of C
 
 ## Timeline of C language
-![History of C](images/Timeline_of_C.jpg)
+![History of C](images/Timeline_Of_C.jpg)
 
 ## Characterstics of C language
 
