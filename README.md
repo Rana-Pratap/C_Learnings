@@ -3,4 +3,4 @@ This repository is for foundational C language learning.
 
 ## 📋 Topics Covered
 
-- [] Day 1- Introduction
+- Day 1- Introduction
